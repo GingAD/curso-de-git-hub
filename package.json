@@ -1,0 +1,26 @@
+{
+  "name": "carpeta2",
+  "version": "1.0.0",
+  "description": "mi portafolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GingAD/curso-de-git-hub.git"
+  },
+  "author": "Ging",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GingAD/curso-de-git-hub/issues"
+  },
+  "homepage": "https://github.com/GingAD/curso-de-git-hub#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "install": "^0.13.0",
+    "latest": "^0.2.0",
+    "normalize.css": "^8.0.1",
+    "npm": "^10.4.0"
+  }
+}
